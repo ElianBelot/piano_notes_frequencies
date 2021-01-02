@@ -21,6 +21,6 @@ Every note is calculated according to the following formula:
 <br/><br/>
 <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e319e15be8588bd3d75993d07b0d794cc7c26bd9">
 
-The wavelenght of every frequency is obtained using the following formula:
+The wavelenght of every frequency is obtained using:
 <br/><br/>
 <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/888f09904f5fa6e98f3e7dee005f1696c09910c0">
