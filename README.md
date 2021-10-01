@@ -1,4 +1,3 @@
-
 <p align="center">
 <a href="#">
 <img src="https://www.songbirdcreates.com/wp-content/uploads/2015/11/piano-banner.jpg">
@@ -13,11 +12,11 @@
 
 # About
 
-This script calculates the frequency, wavelenght and name of every piano note (using a 440Hz tuning) and stores them in a CSV file.
+This script calculates the frequencies, wavelenghts and names of every piano note (using 440Hz tuning) and stores them in a CSV file.
 
 # Calculations
 
-Every note is calculated according to the following formula: 
+Every note is calculated according to the following formula:
 <br/><br/>
 <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e319e15be8588bd3d75993d07b0d794cc7c26bd9">
 
