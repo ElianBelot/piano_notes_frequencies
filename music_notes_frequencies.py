@@ -10,11 +10,11 @@ notes = 'CDEFGAB'   # Notes string starting from A
 
 # ===============[ CALCULATING FREQUENCIES ]===============
 for i in range(1, 89):
-    frequencies.append(a**(i-49) * 440) # A4 (440Hz) is reference occupies rank 49 on a piano
+    frequencies.append(a**(i-49) * 440) # A4 (440Hz) is reference and occupies rank 49 on a piano
 
 
 # ===============[ CALCULATING WAVELENGHTS ]===============
-wavelenghts = list(map(lambda f: (v/f) * 100, frequencies)) # Multiply by 100 to get cm
+wavelenghts = list(map(lambda f: (v/f) * 100, frequencies)) # Multiply by 100 to get the wavelength in cm
 
 
 # ===============[ CALCULATING NAMES ]===============
